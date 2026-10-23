@@ -8,7 +8,7 @@ The objective of this project is to analyze Netflix content and extract meaningf
 Dataset Used: Netflix Titles Dataset
 
 File:
-netflix_titles.csv
+netflix_case_study.csv
 
 Technologies Used:
 1)Python
